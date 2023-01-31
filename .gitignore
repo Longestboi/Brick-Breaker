@@ -1,0 +1,6 @@
+Video/
+Source Image/
+Source Audio/
+**/__pycache__
+
+*.zip
